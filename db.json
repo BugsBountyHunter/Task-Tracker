@@ -23,6 +23,12 @@
       "day": "Add",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "test2",
+      "day": "sasa",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
